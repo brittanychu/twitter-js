@@ -19,6 +19,7 @@
   "homepage": "https://github.com/bsc2120/twitter-js#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "nunjucks": "^3.0.1",
     "volleyball": "^1.4.1"
   }
 }
